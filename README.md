@@ -1,6 +1,6 @@
 # unity-grapplergame
-initial concept made in 29 hours 29 minutes, but i decided to keep working on it
+Initial concept completed in 29 hours 29 minutes, but I decided to keep working on it.
 
-i guess people are allowed to do what they want with the code ive created so far, but keep in mind im still working on grapplergame, so dont cry if i ever update this further lol
+I took inspiration from Attack on Titan for the game mechanics revolving around a grappling hook to get around, but I copied the code from 
 
-copyright 2021 by me?
+copyright 2021 by me
